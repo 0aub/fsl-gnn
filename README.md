@@ -1,8 +1,3 @@
-Here is the final version of the README.md file, with the license badge removed and the BibTeX citation modified as you requested.
-
------
-
-````markdown
 # GNN-CL for Few-Shot Satellite Image Classification
 
 [cite_start]This repository contains the official PyTorch implementation for the paper: **"Enhancing Few-Shot Satellite Image Scene Classification with Graph Neural Network and Contrastive Learning"**[cite: 10, 11].
