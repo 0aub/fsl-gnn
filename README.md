@@ -33,7 +33,7 @@ The overall architecture of our proposed framework is shown below:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/0aub/fsl-gnn.git](https://github.com/0aub/fsl-gnn.git)
+git clone https://github.com/0aub/fsl-gnn.git
 cd fsl-gnn
 ````
 
@@ -48,8 +48,8 @@ pip install -r requirements.txt
 A typical `requirements.txt` might look like this:
 
 ```
-torch>=1.9.0
-torchvision>=0.10.0
+torch
+torchvision
 torch-scatter
 torch-sparse
 torch-cluster
