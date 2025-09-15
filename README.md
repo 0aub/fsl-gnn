@@ -26,7 +26,7 @@ Few-shot classification of satellite images is particularly difficult due to two
 
 The overall architecture of our proposed framework is shown below:
 
-![Model Architecture](assets/arch.jpg)
+![Model Architecture](assets/arch.png)
 
 ## Getting Started
 
