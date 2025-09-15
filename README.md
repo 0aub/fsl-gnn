@@ -37,28 +37,6 @@ git clone https://github.com/0aub/fsl-gnn.git
 cd fsl-gnn
 ````
 
-### 2\. Setup Environment
-
-We recommend using a `conda` or `virtualenv` environment. The main dependencies are PyTorch and PyTorch Geometric.
-
-```bash
-pip install -r requirements.txt
-```
-
-A typical `requirements.txt` might look like this:
-
-```
-torch
-torchvision
-torch-scatter
-torch-sparse
-torch-cluster
-torch-spline-conv
-torch-geometric
-numpy
-tqdm
-```
-
 ### 3\. Download Datasets
 
 [cite\_start]Our paper evaluates performance on four standard FSL-RS benchmarks[cite: 537]:
